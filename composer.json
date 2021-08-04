@@ -1,0 +1,7 @@
+{
+    "require": {
+        "vladimir163/lead-generator": "*"
+    },
+    "minimum-stability": "dev",
+    "prefer-stable": true
+}
